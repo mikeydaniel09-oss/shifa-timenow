@@ -1,7 +1,7 @@
 {
-  "name": "timenow-service",
+  "name": "shifa-timenow",
   "version": "1.0.0",
-  "description": "Simple Express server for returning current date/time in JSON for Vapi.",
+  "description": "Simple Express server that returns current date/time in JSON for Vapi.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
